@@ -1,0 +1,44 @@
+1645285648140	geckodriver	INFO	Listening on 127.0.0.1:54181
+1645285651218	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54182" "-no-remote" "-profile" "C:\\Users\\ELITEB~1\\AppData\\Local\\Temp\\rust_mozprofileoVc9Fc"
+1645285652477	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Elitebook\\AppData\\Local\\Temp\\rust_mozprofileoVc9Fc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54182/devtools/browser/ee807b39-4cf0-4e99-933d-f0431dca95ce
+1645285656913	Marionette	INFO	Listening on port 54190
+1645285657082	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645285658251	Marionette	INFO	Stopped listening on port 54190
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Elitebook\AppData\Local\Temp\rust_mozprofileoVc9Fc\protections.sqlite
+1645285661380	geckodriver	INFO	Listening on 127.0.0.1:54234
+1645285664482	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54235" "-no-remote" "-profile" "C:\\Users\\ELITEB~1\\AppData\\Local\\Temp\\rust_mozprofileUhz9il"
+1645285665081	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Elitebook\\AppData\\Local\\Temp\\rust_mozprofileUhz9il\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54235/devtools/browser/69ab0d83-8c50-4742-94fe-44b2b6b819ce
+1645285668470	Marionette	INFO	Listening on port 54241
+1645285668695	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645285706154	Marionette	INFO	Stopped listening on port 54241
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1645285713575	geckodriver	INFO	Listening on 127.0.0.1:54347
+1645285716672	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54348" "-no-remote" "-profile" "C:\\Users\\ELITEB~1\\AppData\\Local\\Temp\\rust_mozprofileTQN7Gz"
+1645285717283	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Elitebook\\AppData\\Local\\Temp\\rust_mozprofileTQN7Gz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54348/devtools/browser/104a4479-cab2-4e8e-9a1a-3d31edffa0ed
+1645285721109	Marionette	INFO	Listening on port 54354
+1645285721487	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645285722736	Marionette	INFO	Stopped listening on port 54354
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Elitebook\AppData\Local\Temp\rust_mozprofileTQN7Gz\protections.sqlite
+1645285725789	geckodriver	INFO	Listening on 127.0.0.1:54404
+1645285728869	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54405" "-no-remote" "-profile" "C:\\Users\\ELITEB~1\\AppData\\Local\\Temp\\rust_mozprofile7P1rD2"
+1645285729481	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Elitebook\\AppData\\Local\\Temp\\rust_mozprofile7P1rD2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54405/devtools/browser/e830820c-40a9-4c75-8419-a59db22faa5d
+1645285733219	Marionette	INFO	Listening on port 54413
+1645285733692	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645285739410	Marionette	INFO	Stopped listening on port 54413
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
